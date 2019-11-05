@@ -1,6 +1,6 @@
-x=2
-print(x)
-y=6
-print(x+y)
+a=5
+b=3
+c=2
+print(a+b+c)
 
 
