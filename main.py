@@ -6,3 +6,5 @@ for i in range(len(a)):
             a[j] = a[j-1]
             a[j-1] = w
 
+for i in range(len(a)):
+    print(a[i], end="")
